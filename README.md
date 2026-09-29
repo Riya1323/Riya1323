@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./About me.png" width="100%">
 </p>
-# 👋 Hi, I'm Riya Singh
+
 # 👋 Hi, I'm Riya Singh
 
 ### 💻 B.Tech CSE Student | 📊 Data Analytics → 🤖 Machine Learning
