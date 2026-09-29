@@ -48,7 +48,7 @@ Currently, my focus is on becoming a strong Data Analyst through hands-on projec
 
 ---
 
-## 📊 Featured Projects
+
 
 ## 📊 Featured Projects
 
