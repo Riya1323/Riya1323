@@ -54,11 +54,17 @@ Currently, my focus is on becoming a strong Data Analyst through hands-on projec
 
 Here are some of the projects I've worked on while learning and exploring data:
 
-- 📊 [Tata Data Visualisation Project](YOUR_REPO_LINK)
-- 📈 [Deloitte Data Analytics Job Simulation](YOUR_REPO_LINK)
-- 🐍 [E-commerce Delivery Insights Tool](YOUR_REPO_LINK)
-- 🐍 [Server Log Analyzer](YOUR_REPO_LINK)
-- 🔬 [JPMorgan Quantitative Research](YOUR_REPO_LINK)
+## 📊 Featured Projects
+
+Here are some of my projects:
+
+- 📊 [Tata Data Visualisation Project](./Tata-Data-Visualisation-Project)
+- 📈 [Deloitte Data Analytics Job Simulation](./Deloitte-Data-Analytics-job-Simulation)
+- 🛒 [E-commerce Delivery Insights Tool](./E-commerce-Delivery-Insights-Tool)
+- 🐍 [Server Log Analyzer](./Server-Log-Analyzer-Python)
+- 📊 [JPMorgan Quantitative Research](./JPMorgan-Quantitative-Research)
+- 🔍 [Customer Behavior Analysis](./Customer-Behavior-Analysis)
+- 
 ## 🔬 Experience
 
 ### IIT Kanpur — Research Experience
