@@ -50,12 +50,15 @@ Currently, my focus is on becoming a strong Data Analyst through hands-on projec
 
 ## 📊 Featured Projects
 
-Check out my pinned repositories below 👇
+## 📊 Featured Projects
 
-I'm continuously building and improving projects as I learn.
+Here are some of the projects I've worked on while learning and exploring data:
 
----
-
+- 📊 [Tata Data Visualisation Project](YOUR_REPO_LINK)
+- 📈 [Deloitte Data Analytics Job Simulation](YOUR_REPO_LINK)
+- 🐍 [E-commerce Delivery Insights Tool](YOUR_REPO_LINK)
+- 🐍 [Server Log Analyzer](YOUR_REPO_LINK)
+- 🔬 [JPMorgan Quantitative Research](YOUR_REPO_LINK)
 ## 🔬 Experience
 
 ### IIT Kanpur — Research Experience
