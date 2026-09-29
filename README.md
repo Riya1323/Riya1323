@@ -68,14 +68,23 @@ Here are some of my projects:
 - 🐍 [Server Log Analyzer](./Server-Log-Analyzer-Python)
 - 📊 [JPMorgan Quantitative Research](./JPMorgan-Quantitative-Research)
 - 🔍 [Customer Behavior Analysis](./Customer-Behavior-Analysis)
-- 
+
+---
+
 ## 🔬 Experience
 
 ### IIT Kanpur — Research Experience
 
-Worked with galaxy simulation data using **Python and Pynbody**, analyzing multiple simulation snapshots and creating visualizations to study galaxy properties and behavior.
+Worked with galaxy simulation data using **Python and Pynbody**, analyzing multiple simulation snapshots and creating visualizations to study galaxy properties and their evolution.
 
----
+📊 **Worked on:**
+- Galaxy simulation data analysis
+- Data cleaning and preprocessing
+- Exploratory analysis and visualization
+- Studying stellar disk properties and galaxy evolution
+- Creating 2D and 3D visualizations
+
+**Tools:** `Python` `Pynbody` `Matplotlib`
 
 ## 🌸 A Little About Me
 
