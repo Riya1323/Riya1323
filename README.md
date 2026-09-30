@@ -54,8 +54,6 @@ Currently, my focus is on becoming a strong Data Analyst through hands-on projec
 
 Here are some of the projects I've worked on while learning and exploring data:
 
-## 📊 Featured Projects
-
 
 Check out my pinned repositories below 👇
 
