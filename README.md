@@ -36,7 +36,7 @@ I enjoy working with data, finding patterns, creating visualizations, and turnin
 
 **Tools**
 
-`Git` `GitHub` `VS Code` 
+`Git` `GitHub` `VS Code` `Google collab` 
 
 ---
 
