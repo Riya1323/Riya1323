@@ -52,14 +52,14 @@ Currently, my focus is on becoming a strong Data Analyst through hands-on projec
 
 ## 📊 Featured Projects
 
-Here are some of the projects I've worked on while learning and exploring data:
+
 
 
 Check out my pinned repositories below 👇
 
 I'm continuously building and improving projects as I learn.
 
-Here are some of my projects:
+Here are some of my projects I've worked on while learning and exploring data:
 - 📊 [Tata Data Visualisation Project](./Tata-Data-Visualisation-Project)
 - 📈 [Deloitte Data Analytics Job Simulation](./Deloitte-Data-Analytics-job-Simulation)
 - 🛒 [E-commerce Delivery Insights Tool](./E-commerce-Delivery-Insights-Tool)
